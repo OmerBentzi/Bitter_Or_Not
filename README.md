@@ -1,4 +1,9 @@
 # Bitter_Or_Not
+I used the libraries:
+pandas
+numpy
+matplotlib
+sklearn.preprocessing
 A machine learning project, dealing with a large amount of data and normalizing the data
 1. Checking Are there any missing data? What can be done to complete or delete?
 Answer: There are missing data in the above data file, it is possible to delete the data that comes from the same category due to several reasons:
