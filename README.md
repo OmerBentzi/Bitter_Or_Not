@@ -42,7 +42,6 @@ The code drops one of the variables in each correlation pair from dataframe df. 
 We finally got it to have the same number of rows as the original data frame, but with fewer columns (21 columns).
 
 6. To present the remaining variables with the help of histograms and boxplot.
-Answer:
 
 7. Building a table showing descriptive statistics for each variable, according to the measurement scale of the variable, for example:
 
